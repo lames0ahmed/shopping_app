@@ -47,13 +47,23 @@ flutter run
 Make sure you have Flutter installed and your device/emulator ready.
 
 Screenshots
+
 Welcome Screen
+![Welcome Screen](https://raw.githubusercontent.com/lames0ahmed/shopping_app/master/assets/screenshots/welcome.png)
 
 Sign Up Screen
+![Sign Up Screen](https://raw.githubusercontent.com/lames0ahmed/shopping_app/master/assets/screenshots/signup.png)
 
 Sign In Screen
+![Sign In Screen](https://raw.githubusercontent.com/lames0ahmed/shopping_app/master/assets/screenshots/signin.png)
 
 Home Screen
+![Home Screen 1](https://raw.githubusercontent.com/lames0ahmed/shopping_app/master/assets/screenshots/home1.png)
+
+![Home Screen 2](https://raw.githubusercontent.com/lames0ahmed/shopping_app/master/assets/screenshots/home2.png)
+
+
+![Home Screen 3](https://raw.githubusercontent.com/lames0ahmed/shopping_app/master/assets/screenshots/home3.png)
 
 
 
