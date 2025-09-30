@@ -46,26 +46,22 @@ flutter run
 
 Make sure you have Flutter installed and your device/emulator ready.
 
-Screenshots
-Welcome Screen
+## Screenshots
 
-<img src="https://raw.githubusercontent.com/lames0ahmed/shopping_app/master/assets/screenshots/welcome.png" width="300">
+### Welcome Screen
+<img src="https://raw.githubusercontent.com/lames0ahmed/shopping_app/master/assets/screenshots/welcome.png" width="300"/>
 
+### Sign Up Screen
+<img src="https://raw.githubusercontent.com/lames0ahmed/shopping_app/master/assets/screenshots/signup.png" width="300"/>
 
-Sign Up Screen
+### Sign In Screen
+<img src="https://raw.githubusercontent.com/lames0ahmed/shopping_app/master/assets/screenshots/signin.png" width="300"/>
 
-<img src="https://raw.githubusercontent.com/lames0ahmed/shopping_app/master/assets/screenshots/signup.png" width="300">
+### Home Screen
+<img src="https://raw.githubusercontent.com/lames0ahmed/shopping_app/master/assets/screenshots/home1.png" width="300"/>
+<img src="https://raw.githubusercontent.com/lames0ahmed/shopping_app/master/assets/screenshots/home2.png" width="300"/>
+<img src="https://raw.githubusercontent.com/lames0ahmed/shopping_app/master/assets/screenshots/home3.png" width="300"/>
 
-Sign In Screen
-
-<img src="https://raw.githubusercontent.com/lames0ahmed/shopping_app/master/assets/screenshots/signin.png" width="300">
-Home Screen
-
-<img src="https://raw.githubusercontent.com/lames0ahmed/shopping_app/master/assets/screenshots/home1.png" width="300"> 
-
-<img src="https://raw.githubusercontent.com/lames0ahmed/shopping_app/master/assets/screenshots/home2.png" width="300"> 
-
-<img src="https://raw.githubusercontent.com/lames0ahmed/shopping_app/master/assets/screenshots/home3.png" width="300">
 
 
 
