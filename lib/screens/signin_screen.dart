@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:shopping_app/shopping_home_screen.dart';
+import 'package:shopping_app/screens/shopping_home_screen.dart';
+
 
 
 class SignInScreen extends StatefulWidget {

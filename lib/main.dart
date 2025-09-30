@@ -1,7 +1,7 @@
+import 'package:shopping_app/screens/shopping_home_screen.dart';
 import 'package:shopping_app/screens/signin_screen.dart';
 import 'package:shopping_app/screens/signup_screen.dart';
 import 'package:shopping_app/screens/welcome_screen.dart';
-import 'package:shopping_app/shopping_home_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
