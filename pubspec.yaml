@@ -1,0 +1,42 @@
+name: shopping_app
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you want to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/photo2.png
+    - assets/images/product1.png
+    - assets/images/product2.png
+    - assets/images/product3.png
+    - assets/images/product4.png
+    - assets/images/product5.png
+    - assets/images/product6.png
+    - assets/images/discount1.png
+    - assets/images/discount2.png
+    - assets/images/discount3.png
+    - assets/images/discount4.png
+    - assets/images/discount5.png
+
+  fonts:
+    - family: Suwannaphum
+      fonts:
+        - asset: assets/fonts/Suwannaphum-Regular.ttf
