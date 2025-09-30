@@ -35,6 +35,12 @@ flutter:
     - assets/images/discount3.png
     - assets/images/discount4.png
     - assets/images/discount5.png
+    - assets/screenshots/welcome.png
+    - assets/screenshots/signin.png
+    - assets/screenshots/signup.png
+    - assets/screenshots/home1.png
+    - assets/screenshots/home2.png
+    - assets/screenshots/home3.png
 
   fonts:
     - family: Suwannaphum
